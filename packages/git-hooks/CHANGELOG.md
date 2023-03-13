@@ -1,5 +1,12 @@
 # @zanminkian/git-hooks
 
+## 0.1.4
+
+### Patch Changes
+
+- 5a20cfa: refactor(git-hooks): move files to src
+- 6f16cfc: docs: update README and keywords
+
 ## 0.1.3
 
 ### Patch Changes
